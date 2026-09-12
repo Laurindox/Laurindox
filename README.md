@@ -28,7 +28,9 @@ Construo sistemas de agentes autônomos que operam negócio real, não demonstra
 | **Automação e agentes** | n8n · Model Context Protocol · Claude Code · Webhooks |
 | **IA e APIs** | Anthropic Claude · Google Gemini · REST |
 | **CRM e operação** | GoHighLevel · integração com ERP · API de rastreio |
-| **Infraestrutura e dados** | VPS · DigitalOcean · Railway · Supabase · PostgreSQL · Cloudflare |
+| **Infraestrutura e dados** | VPS própria em Hetzner · DigitalOcean · Railway · Supabase · PostgreSQL · Cloudflare |
+
+Rodo minha própria instância de n8n em VPS, não em plataforma gerenciada.
 
 ### Certificações
 
